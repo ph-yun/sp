@@ -5,3 +5,13 @@
     --color-heading: #1b0760;
     --color-body : #918ca4;
 }
+body { 
+    font-family: "Inter", sans-serif;
+    color:var(--color-body);
+}
+
+h1,h2,h3 { color:var(--color-heading)}
+h1 { font-size: 7rem;}
+h2 { font-size: 3rem;}
+h3 { font-size: 3rem;  margin-bottom: 1rem;}
+p { margin-top: 0;}
